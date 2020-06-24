@@ -1,3 +1,7 @@
+# 24.06.2020
+# Git Übung
+# Fix einfügen
+
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 ARG DEVICE
