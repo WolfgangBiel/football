@@ -1,7 +1,6 @@
-# # 2. Fix Docker
-# 24.06.2020
+# 2. Fix und Feature docker file
+# 25.06.2020
 # Git Übung
-# Fix einfügen
 
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
